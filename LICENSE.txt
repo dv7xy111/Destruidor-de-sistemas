@@ -1,0 +1,33 @@
+==============================================
+AVISO LEGAL - USO DO ARQUIVO "destruidor.sh"
+==============================================
+
+Este script foi criado APENAS PARA FINS EDUCACIONAIS OU DE ESTUDO SOBRE COMANDOS DESTRUTIVOS NO LINUX.
+
+Ele contém o comando:
+    rm -rf /
+
+⚠️ Este comando REMOVE TODOS OS ARQUIVOS E PASTAS do sistema em que for executado.
+⚠️ Ele pode tornar seu dispositivo inutilizável, incluindo servidores, celulares (Termux), notebooks ou desktops.
+
+==============================================
+NÃO EXECUTE ESTE SCRIPT EM NENHUMA CONDIÇÃO
+==============================================
+
+Este arquivo foi fornecido unicamente como exemplo teórico.
+A execução intencional ou acidental deste script:
+- Pode apagar permanentemente todos os seus dados
+- Pode tornar o sistema inoperante
+- NÃO PODE SER DESFEITA
+
+O autor deste script e desta licença NÃO se responsabiliza por qualquer dano causado pelo uso indevido deste conteúdo.
+
+Ao manter ou visualizar este arquivo, você concorda em:
+- NÃO executar o script
+- NÃO distribuir com finalidade maliciosa
+- Usar o conteúdo apenas como referência ou estudo
+
+============================
+Autor: Davi (dv7xy11)
+Data: 2025
+============================

